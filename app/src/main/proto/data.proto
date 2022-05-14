@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "allanksr.com.datastore_example";
+option java_multiple_files = true;
+
+message DatastoreExample {
+  string someName = 1;
+  int32 someNumber = 2;
+  bool someBoolean = 3;
+  uint64 someLong = 4;
+  float someFloat = 5;
+}
+

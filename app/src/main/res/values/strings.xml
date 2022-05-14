@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DataStore Example</string>
+
+    <string name="store_screen">Data Store Screen</string>
+    <string name="proto_screen">Data Proto Screen</string>
+    <string name="store_data_info">Store string data</string>
+    <string name="store_proto_info">Store object data</string>
+    <string name="no_data_stored">No data stored</string>
+    <string name="description_back">back</string>
+    <string name="store_data">Store data</string>
+    <string name="store_object">Store object</string>
+</resources>
